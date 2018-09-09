@@ -6,4 +6,7 @@ public class JustAddingThisClassToCheck {
 		System.out.println("JustAddingThisClassToCheck");
 	}
 
+	public void AddingAnotherNewMethod() {
+		System.out.println("AddingAnotherNewMethod");
+	}
 }
